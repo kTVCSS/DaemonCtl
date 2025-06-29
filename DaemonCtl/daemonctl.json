@@ -1,0 +1,7 @@
+﻿{
+  "Daemons": [
+    "ktvcss-back.service",
+    "ktvcss-chat.service",
+    "ktvcss-front.service"
+  ]
+}
